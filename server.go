@@ -9,5 +9,5 @@ import (
 
 
 func main() {
-    fmt.Printf("Starting server at port 8080\n")
+    fmt.Printf("Starting server at port 8000\n")
 }
